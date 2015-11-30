@@ -1,0 +1,22 @@
+<!DOCTYPE collection SYSTEM "recipe.dtd">
+<collection>
+    <description>Some recipes I am familiar with.</description>
+    <recipe>
+        <title>Daal</title>
+        <ingredient name="rahari daal" amount="1/2" unit="bowl"/>
+        <ingredient name="besar" amount="1/2" unit="tablespoon"/>
+		<ingredient name="water" amount="2" unit="bowl"/>
+        <ingredient name="salt" amount="2" unit="tablespoon"/>
+        <ingredient name="oil" amount="1" unit="tablespoon"/>
+        <preparation>
+            <step>Wash the rahari daal with water.</step>
+            <step>Put 2 bowls of water in the cooker along with the rahari daal.</step>
+            <step>Add 1/2 tablespoon of besar.</step>
+            <step>Add 2 tablespoon of salt.</step>
+            <step>Add 1 tablespoon of oil.</step>
+            <step>Close the lid and heat the cooker.</step>
+            <step>Relax for 15 minutes. And the daal is ready.</step>    
+        </preparation>
+        <nutrition calories="700" fat="30" carbohydrates="20" protein="100"/>
+    </recipe>
+</collection>

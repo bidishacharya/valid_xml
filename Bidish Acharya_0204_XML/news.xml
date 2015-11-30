@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE NEWSPAPER SYSTEM "newspaper.dtd">
+<NEWSPAPER>
+    <ARTICLE AUTHOR="Abhash" EDITOR="Misan" DATE="11/29/2015">
+        <HEADLINE>Write, Nepal Helping Aspiring Writers of Nepal</HEADLINE>
+        <BYLINE>Ankit</BYLINE>
+        <LEAD>Nagarik News</LEAD>
+        <BODY>writenepal.com, a website created by the team at Nepali Writers helps young writers to publish their works and share with a broader audience.</BODY>
+        <NOTES>Submit articles at nepalwrite@gmail.com.</NOTES>
+    </ARTICLE>
+    <ARTICLE AUTHOR="Komal" EDITOR="Rashik" EDITION="4">
+        <HEADLINE>MeroHostel.com Helping Students Find Hostels in Kathmandu!</HEADLINE>
+        <BYLINE>Rasmit</BYLINE>
+        <LEAD>Republica</LEAD>
+        <BODY>merohostel.com, a website developed by the students of DWIT is helping the students find hostels easily in Kathmandu.</BODY>
+        <NOTES>The database consists of more than 250 hostels.</NOTES>
+    </ARTICLE>
+</NEWSPAPER>
